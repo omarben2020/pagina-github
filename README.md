@@ -1,2 +1,2 @@
-# pagina-gituhub
+# pagina-github
 proyecto graduacion
